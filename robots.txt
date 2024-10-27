@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eweqeine.github.io/sitemap_index.eweqeine
